@@ -7,11 +7,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "start": "ng serve",
-    "build": "ng build --prod",
-    "lint": "ng lint",
-    "e2e": "ng e2c"
-    
+    "start": "npm start"
   },
   "dependencies": {
     "history": "^4.6.3",
