@@ -7,7 +7,11 @@
   },
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --open"
+    "start": "ng serve",
+    "build": "ng build --prod",
+    "lint": "ng lint",
+    "e2e": "ng e2c"
+    
   },
   "dependencies": {
     "history": "^4.6.3",
